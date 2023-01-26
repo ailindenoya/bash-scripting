@@ -1,1 +1,4 @@
-# bash-scripting
+# bash scripting 
+
+practice for FCC
+
